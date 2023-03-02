@@ -1,8 +1,8 @@
 # Bridge-Race-Clone
 Bridge Race adlı oyunu klonladığım çalışmam
-Website: http://www.fadesoftware.com/
+Website: http://www.fadesoftware.net/
 <br>
-Blog: http://www.blog.fadesoftware.com/
+Blog: http://www.blog.fadesoftware.net/
 <br>
 Contact: softwarefade@gmail.com
 <br>
